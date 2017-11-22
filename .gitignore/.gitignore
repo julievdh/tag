@@ -1,0 +1,16 @@
+# Sound files
+*.wav
+*.wavt
+
+
+# Sensor and Metadata files
+*.dtg
+*.swv
+*.xml
+
+# Activities and Lectures from animaltags.org
+/activities/
+/Lecture slides/
+
+# ecg (own repository)
+/ecg/
