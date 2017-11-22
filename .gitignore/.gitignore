@@ -7,6 +7,7 @@
 *.dtg
 *.swv
 *.xml
+*.nc
 
 # Activities and Lectures from animaltags.org
 /activities/
